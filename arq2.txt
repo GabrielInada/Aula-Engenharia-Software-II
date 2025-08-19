@@ -7,5 +7,5 @@ void g() {
 }
 
 main() {
-    print("Hello World");
+    print("Olá mundo!");
 }
