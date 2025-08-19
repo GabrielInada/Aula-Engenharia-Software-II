@@ -5,3 +5,7 @@ void f() {
 void g() {
     // Função nova implementada por Bob
 }
+
+main() {
+    print("Hello World");
+}
