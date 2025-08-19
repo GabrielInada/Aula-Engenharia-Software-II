@@ -1,5 +1,8 @@
 void f() {
-    // Função antiga
+    x = 1;
+    y = 2;
+    print(x + y);
+    // só pra fingir que o bob realmente fez uma função f na branch f-novo
 }
 
 void g() {
