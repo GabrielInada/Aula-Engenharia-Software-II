@@ -1,3 +1,7 @@
 void f() {
-    // Nada aqui
+    // Função antiga
+}
+
+void g() {
+    // Função nova implementada por Bob
 }
