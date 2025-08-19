@@ -6,7 +6,10 @@ void f() {
 }
 
 void g() {
-    // Função nova implementada por Bob
+    x = 1;
+    y = 2;
+    print(x + y);
+    // sim eu só copiei e colei
 }
 
 main() {
