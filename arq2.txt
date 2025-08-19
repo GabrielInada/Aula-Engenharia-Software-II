@@ -10,6 +10,8 @@ void g() {
     y = 2;
     print(x + y);
     // sim eu só copiei e colei
+    print("Alice fez algo");
+    // estou sem ideias
 }
 
 main() {
